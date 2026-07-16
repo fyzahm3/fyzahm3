@@ -27,9 +27,9 @@ Open to **Software Engineering internships / new-grad roles** — particularly a
 
 ## 🤝 Let's connect
 
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-handle)
+- 📫 Reach me on [LinkedIn](https:www.linkedin.com/in/fayaz-ahmed06/)
 - 🎓 VIT Vellore, Class of 2027
-- 💬 Happy to talk about edge AI deployment, GStreamer pipeline debugging, or DSA prep
+- 💬 Happy to talk about edge AI deployment, GStreamer pipeline debugging, or anything tech related really :)
 
 <!--
 Optional add-ons once you're set up:

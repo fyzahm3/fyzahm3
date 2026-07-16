@@ -1,6 +1,6 @@
 # Hi, I'm Fayaz 👋
 
-Final year CSE student at VIT Vellore, currently building real-time edge AI systems for industrial vision.
+Pre-final year CSE student at VIT Vellore, currently building real-time edge AI systems for industrial vision.
 
 ## 🔭 What I'm working on
 
@@ -25,11 +25,18 @@ Interning at **Truminds Software Systems** on **TruVision Factory** — a multi-
 
 Open to **Software Engineering internships / new-grad roles** — particularly anything touching computer vision, edge/embedded ML systems, or backend infrastructure. Also curious about roles at the intersection of software and fintech.
 
+### 📍 Locations
+
+- **Primary:** Dubai, UAE 🇦🇪
+- **Native:** Chennai, India 🇮🇳
+- **Studying at:** VIT Vellore, India 🎓
+- * **Remote Workspace:** Anywhere with Wi-Fi!
+
 ## 🤝 Let's connect
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fayaz-ahmed06/)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-handle)
 - 🎓 VIT Vellore, Class of 2027
-- 💬 Happy to talk about edge AI deployment, GStreamer pipeline debugging, or anything tech related really :)
+- 💬 Happy to talk about edge AI deployment, GStreamer pipeline debugging, or DSA prep
 
 <!--
 Optional add-ons once you're set up:

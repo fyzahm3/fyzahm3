@@ -1,6 +1,6 @@
 # Hi, I'm Fayaz 👋
 
-Pre-final year CSE student at VIT Vellore, currently building real-time edge AI systems for industrial vision.
+Final year CSE student at VIT Vellore, currently building real-time edge AI systems for industrial vision.
 
 ## 🔭 What I'm working on
 
